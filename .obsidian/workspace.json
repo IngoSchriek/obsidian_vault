@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e0efacf731d46166",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df18e8acf2c9300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c164d8c93935b0c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11cf026727b2febb",
+    "type": "split",
+    "children": [
+      {
+        "id": "10c95f1c46335959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8431cdb6b0e09a42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6b5f5c9dd3eadd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "936e2dece620d570",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "66ad4159fa335b35",
+    "type": "split",
+    "children": [
+      {
+        "id": "806226433b571c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3781b46c917ae9de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb28993765a4e68c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e936c36fa711150",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "386c783a73161bd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8431cdb6b0e09a42",
+  "lastOpenFiles": [
+    "repo/Untitled.canvas",
+    "repo/Untitled 1.canvas",
+    "repo/Pasted image 20240110192953.png",
+    "repo/Pasted image 20240106150011.png",
+    "repo/Pasted image 20240106145129.png",
+    "repo/Pasted image 20231203162200.png",
+    "repo/Pasted image 20231203161633.png",
+    "repo/Pasted image 20231203161013.png",
+    "repo/Pasted image 20231202224343.png",
+    "repo/Pasted image 20231202224341.png",
+    "repo/Pasted image 20231202222939.png",
+    "repo/Pasted image 20231202222210.png",
+    "repo/Goals.md",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain/Introdução a conceitos de segurança.md",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain/Identidade Digital, Hyperledger e Blockchain.md",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain/Dominando o Indy.md",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain/Conceitos gerais.md",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain/Credenciais verificáveis.md",
+    "repo/UFSC/Introdução a Ciência da Computação/Sistemas Operacionais.md",
+    "repo/UFSC/Introdução a Ciência da Computação/Representação e Ciclo de Instrução.md",
+    "repo/UFSC/Introdução a Ciência da Computação/Funcionamento de um Computador.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Teoria dos Números.md",
+    "repo/UFSC/Introdução a Ciência da Computação/Codificação.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Teoria dos Números (Rosen).md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Recursão e indução.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Retículos.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Relações.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Sequências e Somas.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Provas.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Princípio do pombal.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Permutações e Combinações.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Lógica.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Introdução à Contagem.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Funções.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Crescimento de Funções.md",
+    "repo/UFSC/Fundamentos da Matemática Discreta/Conjuntos.md",
+    "repo/UFSC/Cálculo 1/Trigonométricas inversas.md",
+    "repo/UFSC/Programação Orientada a Objetos",
+    "repo/UFSC/Gerenciamento de identificação de evidências da perícia forense usando blockchain",
+    "repo/UFSC/Introdução a Ciência da Computação",
+    "repo/UFSC/Fundamentos da Matemática Discreta",
+    "repo/UFSC/Cálculo 1",
+    "repo/UFSC/Circuitos e Técnicas Digitais",
+    "repo/UFSC",
+    "repo/React",
+    "repo/Java",
+    "repo/C++",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

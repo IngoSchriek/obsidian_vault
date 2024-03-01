@@ -1,0 +1,5 @@
+- IDE mais utilizada: Eclipse IDE
+- Para começar a fazer código, é necessário criar um projeto e em seguida criar uma classe.
+- Para printar "System.out.println()"
+- public static <type> 
+	- o tipo é o tipo do que será retornado da devida função
